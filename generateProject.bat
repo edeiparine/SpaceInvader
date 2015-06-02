@@ -1,0 +1,1 @@
+gradlew.bat clean --no-daemon eclipse afterEclipseImport idea
